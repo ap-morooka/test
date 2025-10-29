@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>販売終了のお知らせ</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 50px; background-color: #fafafa; }
+    .notice { background: #fff3cd; border: 1px solid #ffe69c; padding: 20px; border-radius: 10px; display: inline-block; }
+  </style>
+</head>
+<body>
+  <h1>販売終了のお知らせ</h1>
+  <div class="notice">
+    本アプリは <strong>2025年11月30日</strong> をもって販売を終了いたしました。<br>
+    Google Play ではすでに配信を終了しております。<br>
+    これまでのご利用、誠にありがとうございました。
+  </div>
+</body>
+</html>
